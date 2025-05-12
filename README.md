@@ -4,6 +4,11 @@
 **Just upload your image — we'll handle the enhancement.**
 
 ---
+## 🌐 Live Demo
+
+🔗 [Try EnhanceKar Live](https://vercel.com/rishabhj-26s-projects/enhance-kar)  
+
+---
 
 ## 🔥 Why EnhanceKar?
 

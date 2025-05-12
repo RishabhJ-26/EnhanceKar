@@ -6,7 +6,7 @@
 ---
 ## 🌐 Live Demo
 
-🔗 [Try EnhanceKar Live](https://vercel.com/rishabhj-26s-projects/enhance-kar)  
+🔗 [Try EnhanceKar Live](https://enhance-kar.vercel.app/)  
 
 ---
 

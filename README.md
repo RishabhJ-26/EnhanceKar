@@ -1,12 +1,40 @@
-# React + Vite
+# 🧠 EnhanceKar — Upload Your Image, We'll Handle the Magic ✨
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**EnhanceKar** is your go-to AI-powered tool to transform dull, low-resolution images into high-quality, crystal-clear visuals — effortlessly.  
+**Just upload your image — we'll handle the enhancement.**
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔥 Why EnhanceKar?
 
-## Expanding the ESLint configuration
+- 🤖 AI-Powered Image Enhancement
+- 🖼️ One-click Upload & Preview
+- 🚀 Lightning Fast and Intuitive UI
+- 💻 Built with love by Rishabh Jain
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repo
+```
+git clone https://github.com/RishabhJ-26/EnhanceKar.git
+cd EnhanceKar
+```
+
+2. Install Dependencies
+```
+npm install
+```
+
+3. Run the App
+```
+npm start
+```
+
+📃 License
+MIT License © Rishabh Jain
+
+🤝 Contributing
+Got ideas to improve EnhanceKar?
+Open a PR or raise an issue — collaboration is welcome!
